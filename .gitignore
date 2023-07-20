@@ -1,0 +1,8 @@
+# Ignore build artifacts for all projects
+**/target/
+
+# Ignore Cargo.lock for all projects
+**/Cargo.lock
+
+# Ignore editor-specific files
+./vscode
